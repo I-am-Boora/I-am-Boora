@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonu Boora</h1>
 <h3 align="center">A passionate React Native developer from India</h3>
 <img align=“right” alt ="coding" width=“300” src=“https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47iv961cvl5lw2vg30gs1higphridr8i3rie694lmn&ep=v1_gifs_search&rid=giphy.gif&ct=g” />
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <p align="left"> <a href="https://twitter.com/hdboora" target="blank"><img src="https://img.shields.io/twitter/follow/hdboora?logo=twitter&style=for-the-badge" alt="hdboora" /></a> </p>
 
